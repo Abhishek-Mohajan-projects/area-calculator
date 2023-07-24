@@ -1,4 +1,4 @@
-﻿# area-calculator
+﻿# basic area-calculator
 ## using --->
  1) HTML
  2) CSS
